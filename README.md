@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @Antokochumon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Anto Kochumon
+🌐 Web Developer | MERN Stack Enthusiast
+📍 Building modern, responsive web apps with clean UI & powerful functionality.
 
-<!---
-Antokochumon/Antokochumon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-http://anto.eu-north-1.elasticbeanstalk.com/
+💻 Skills:
+HTML • CSS • JavaScript • jQuery • Bootstrap • Firebase • React • Node.js • Express • MongoDB
+
+🚀 Let’s build something amazing together!
+🔗 Portfolio: https://antokochumon.github.io/Portfolio/
